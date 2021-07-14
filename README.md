@@ -6,9 +6,15 @@ In this case i've been create a dashboard to create, list, detail, update, delet
 
 ### Technology
 
-- React Js
-- TypeScript
-- DynamoDB
+- Front-End
+
+  - ReactJs
+  - TypeScript
+
+- Back-End
+  - NodeJs
+  - JavaScript
+  - DynamoDB
 
 ## Getting Start
 
