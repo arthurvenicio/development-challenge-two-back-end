@@ -23,7 +23,7 @@ In this case i've been create a dashboard to create, list, detail, update, delet
 
 ## Back-end
 
-- [Link of front-end repository](https://github.com/arthurvenicio/development-challenge-two-back-end)
+- [Link of front-end repository](https://github.com/arthurvenicio/development-challenge-two)
 
 ---
 
